@@ -28,7 +28,7 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'contributions',
+        name: 'contributors',
         message: 'Are any contributions allowed for this project?'
     },
     {   type: 'input',
