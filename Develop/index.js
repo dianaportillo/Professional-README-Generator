@@ -19,12 +19,13 @@ const questions = [
     {
         type: 'input',
         name: 'install',
-        message: 'What is the installation process for your project?'
+        message: 'What are the command lines you must run to open the application?'
     },
     {
         type: 'list',
         name: 'license',
-        message: 'Did you use any license for this project? If so, please list.'
+        message: 'Did you use any license for this project? If so, please list.',
+        choices: ['MIT']
     },
     {
         type: 'input',

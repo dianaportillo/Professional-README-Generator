@@ -25,8 +25,7 @@ function generateMarkdown(data) {
   * [Tests](#tests)
   * [Questions](#questions)
   
-  ## Installation 
-  ${data.install}
+  The following dependencies must be installed to run this application.
   ## Usage 
   ${data.usage}
   ## License 
