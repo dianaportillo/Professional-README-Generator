@@ -8,7 +8,7 @@ within the command line after running Node.js.
 
 * [Installation](#Installation)
 * [Usage](#Usage)
-* [License(#License)
+* [License](#License)
 * [Contributions](#Contributions)
 * [Tests](#Tests)
 * [Questions](#Questions)
